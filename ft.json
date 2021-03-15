@@ -1,0 +1,851 @@
+[
+    {
+        "name": "Dark",
+        "fill": "#050404",
+        
+        "children": 
+        [
+
+          {
+          "name": "Origin World",
+          
+          "fill": "#58021A",
+          
+          
+          
+          "children": [
+            {
+                "name": "Albers Family",
+                
+                "fill": "#871F3B",
+                
+                
+                "children": [{
+                    "name": "Hermann",
+                    
+                    "fill": "#B54865",
+                    
+                    
+                    
+                    "children":[{
+
+                        
+                        
+                        "name": "Katharina",
+                        
+                        "value": "1"
+
+                    }]
+
+
+              },
+            {
+                            
+                            
+                            "name": "Helene",
+                            
+                            "value": "1"
+            }
+            
+        ]
+            },
+            {
+                "name": "Tanhauusen Family",
+                
+                "fill": "#892640",
+                
+                
+                "children": [{
+                    "name": "Heinrich",
+                    
+                    "fill": "#9C3F57",
+                    
+                    
+                    
+                    "children":[{
+
+                        
+                        
+                            "name": "Gustav",
+                            "id": "Gustav",
+                            "fill": "#B66F82",
+                            "children": [{
+
+                                
+                            "name": "leopold",
+                            "id": "leopold",
+                            "fill": "#B77F8E",
+                            "children": [{
+
+                                
+                            "name": "Marek",
+                            "id": "Marek",
+                            "fill": "#C294A0",
+                            "children": [{
+
+                                   
+                                    "name": "Charlotte",
+                                    
+                                    "value": "1"
+
+
+
+
+                            }
+              
+                        ]
+
+                            }]}]}]}]}
+                            
+                        
+
+                    
+
+
+              
+             
+              ,
+              {
+                
+                    "name": "Wollers Family",
+                    
+                    "fill": "#7F3548",
+                    
+                    
+                    "children": [{
+                        "name": "Torben",
+                        
+                        "fill": "#944F61",
+                        
+                        
+                        
+                        "children":[{
+    
+                            
+                            
+                            
+                            "name": "Jonas",
+                            
+                            "value": "1"
+    
+                        }]
+    
+    
+                  },
+                {
+                                
+                                
+                                "name": "Bernadette",
+                                
+                                "value": "1"
+                }
+                
+            ]
+                },
+    
+              
+                {
+                    "name": "Doppler Family",
+                    
+                    "fill": "#942D48",
+                    
+                    
+                    "children": [{
+                        "name": "Bernd",
+                        
+                        "fill": "#AF5E73",
+                        
+                        
+                        
+                        "children":[{
+    
+                            
+                            
+                            
+                            "name": "Regina",
+                            
+                            "value": "1"
+    
+                        },{
+                            "name": "Greta",
+                            
+                            "fill": "#B57787",
+                        
+                        
+                            
+                            "children":[{
+
+                                "name": "Helge",
+                                
+                                "fill": "#B17E8B",
+                        
+                        
+                                
+                                "children":[{
+
+                                    
+                                    
+                                    "name": "Peter",
+                                    
+                                    "value": "1"
+
+
+
+                        }]
+
+                        }
+                    ]
+    
+    
+                  }
+                
+                
+            ]
+                }
+                    ]}]},
+        
+            {
+                "name": "Adams World",
+                
+                "fill": "#581845",
+                
+                "children": [
+                  
+                    {
+                        "name": "Kohler Family",
+                            
+                            "fill": "#76235E",
+                            
+                            "children": [
+                            {
+                                
+                                    
+                                    "name": "clausen",
+                                    
+                                    "value": "1"
+                            },
+                            {
+                                
+                                    
+                                    "name": "Aleksander",
+                                    
+                                    "value": "1"
+                            }]
+                      },
+                  
+                  {
+                    
+                        "name": "Obendorf Family",
+                            
+                            "fill": "#861F68",
+                            
+                            "children": [
+                            {
+                                "name": "Jurgen",
+                            
+                            "fill": "#A72FA1",
+                            
+                            "children": [
+                            {
+                                
+                                    
+                                    "name": "Eric",
+                                    
+                                    "value": "1"
+                            },{
+                                
+                                    
+                                    "name": "Killian",
+                                    
+                                    "value": "1"
+                            }]
+                            }]
+                      },
+                  
+                  {
+                    
+                        "name": "Friese Family",
+                            
+                            "fill": "#983079",
+                            
+                            "children": [
+                            {
+                                
+                                "name": "Yasin",
+                                
+                                "value": "1"}]
+                          
+                      },
+
+                      {
+                        "name": "Tannhaus Family",
+                        
+                        "fill": "#900D69",
+                        
+                        "children": [
+                        {
+                            "name": "Tannhaus",
+                            
+                            "fill": "#A01977",
+                            
+                            "children": [
+                            {
+                                
+                                
+                                "name": "Marek",
+                                
+                                "value": "1"
+
+                            },
+                        {
+                            
+                                
+                                "name": "Sonja",
+                                
+                                "value": "1"
+                        },{
+                            
+                                
+                                "name": "Elizabeth",
+                                
+                                "value": "1"
+                        }]
+                        }]
+
+                      },
+                      {
+                        "name": "Doppler Family",
+                            
+                            "fill": "#A7217F",
+                            
+                            "children": [
+                            {
+                            "name": "Bernd",
+                            
+                            "fill": "#983994",
+                            
+                            "children": [
+                            {
+                                "name": "Helge",
+                            
+                            "fill": "#BA3391",
+                            
+                            "children": [
+                            {
+                                "name": "Peter",
+                            
+                            "fill": "#CC42A2",
+                            
+                            "children": [
+                            {
+                                
+                                    
+                                    
+                                    "name": "Elizabeth",
+                                    
+                                    "value": "1"
+                                
+                                
+                            },
+                            {
+                                
+                                    
+                                    
+                                    "name": "Franziska",
+                                    
+                                    "value": "1"
+                                
+                            }
+                        ]
+                                
+                            }]
+                            }]
+                            }]
+                      },
+                      
+                      {
+                        "name": "Nielsons Family",
+                        
+                        "fill": "#72335F",
+                        
+                        "children": [
+                        {
+                            "name": "Noah",
+                            
+                            "fill": "#803F6C",
+                            
+                            "children": [
+                            {
+                                
+                            
+                            "name": "Elizabeth",
+                            
+                            "value": "1"
+                                
+                            }]
+                        },
+                        {
+                            "name": "Agnes",
+                            
+                            "fill": "#834871",
+                            
+                            "children": [
+                            {  
+                                "name": "Tronte",
+                            
+                            "fill": "#875377",
+                            
+                            "children": [
+                            {  
+                                
+                                
+                                "name": "Mads",
+                                
+                                "value": "1"
+                                
+                            },
+                            {
+                            "name": "Ulrich",
+                            
+                            "fill": "#8E6180",
+                            
+                            "children": [
+                            {
+                                
+                                
+                                "name": "Magnus",
+                                
+                                "value": "1"
+                            },
+                            {
+                                
+                                
+                                "name": "Mikkel",
+                                
+                                "value": "1"
+                            },
+                            {
+                                
+                                
+                                "name": "Martha",
+                                
+                                "value": "1"
+                            }
+                        ]
+    
+                            }]
+                        }
+                    ]
+                  }]},{
+                    "name": "Albers Family",
+                    
+                    "fill": "#883A71",
+                    
+                    "children": [
+                    {
+                        "name": "Helene",
+                        
+                        "fill": "#9B4B83",
+                        
+                        "children": [
+                        {
+                            
+                                
+                                "name": "Katharina",
+                                
+                                "value": "1"
+                        }]
+                    }]
+
+                  },
+
+                  {
+                    "name": "Kahnwald Family",
+                    
+                    "fill": "#A54889",
+                    
+                    "children": [
+    
+                    {
+                        "name": "Daniel",
+                    
+                    "fill": "#B95A9D",
+                    
+                    "children": [
+    
+                    {
+                        "name": "Ines",
+                        
+                        "fill": "#CD6DB0",
+                        
+                        "children": [
+        
+                        { 
+                            "name": "Michael/Mikkel",
+                            
+                            "fill": "#E085C5",
+                            
+                            "children": [
+            
+                            {
+
+                            
+                            
+                            "name": "Jonas/Adam",
+                            
+                            "value": "1"
+
+
+                            }]
+
+                        }]
+                      
+    
+                    }]
+                      
+    
+                    }
+                  
+                
+                ]
+                  }
+                ]
+        
+        
+    
+        
+        },
+       
+        {
+            "name": "Eva's World",
+            
+            "fill": "#AB0755",
+            
+            "children": [
+              {
+                "name": "Albers family",
+                
+                "fill": "#AD2867",
+                
+                "children": [
+              {
+                "name": "Hermann",
+                
+                "fill": "#AD4175",
+                
+                
+                
+                "children":[{
+
+                    
+                    
+                    
+                    "name": "Katharina",
+                    
+                    "value": "1"
+
+                }]
+
+
+          },
+        {
+                        
+                        "name": "Helene",
+                        
+                        "value": "1"
+        }
+            ]},
+              
+              {
+                "name": "Kahnwald Family",
+                
+                "fill": "#A02B63",
+                
+                "children": [
+
+                {
+                    "name": "Daniel",
+                
+                "fill": "#9F426E",
+                
+                "children": [
+
+                {
+                    
+                    
+                    "name": "Ines",
+                    
+                    "value": "1"
+                  
+
+                }]
+                  
+
+                },
+                {
+                    
+                        "name": "Hannah",
+                        
+                        "value": "1"
+                }
+            
+            
+            ]
+              },
+              {
+                    "name": "Nielsons Family",
+                    
+                    "fill": "#A52D66",
+                    
+                    "children": [
+                    {
+                        "name": "Noah",
+                        
+                        "fill": "#A74373",
+                        
+                        "children": [
+                        {
+                            
+                        "name": "Elizabeth",
+                        
+                        "value": "1"
+                            
+                        }]
+                    },
+                    {
+                        "name": "Agnes",
+                        
+                        "fill": "#9E406D",
+                        
+                        "children": [
+                        {  
+                            "name": "Tronte",
+                        
+                        "fill": "#9A486F",
+                        
+                        "children": [
+                        {  
+                            
+                            
+                            "name": "Mads",
+                            
+                            "value": "1"
+                            
+                        },
+                        {
+                        "name": "Ulrich",
+                        
+                        "fill": "#AB517C",
+                        
+                        "children": [
+                        {
+                            
+                            
+                            "name": "Magnus",
+                            
+                            "value": "1"
+                        },
+                        {
+                            
+                            
+                            "name": "Mikkel",
+                            
+                            "value": "1"
+                        },
+                        {
+                            
+                            
+                            "name": "Martha",
+                            
+                            "value": "1"
+                        }
+                    ]
+
+                        }]
+                    }
+                ]
+              }]},
+              {
+                "name": "Doppler Family",
+                    
+                    "fill": "#B52067",
+                    
+                    "children": [
+                    {
+                    "name": "Greta",
+                    
+                    "fill": "#B72D6F",
+                    
+                    "children": [
+                    {
+                        "name": "Helge",
+                    
+                    "fill": "#C94182",
+                    
+                    "children": [
+                    {
+                        "name": "Peter",
+                    
+                    "fill": "#D04D8B",
+                    
+                    "children": [
+                    {
+                        
+                            
+                            
+                            "name": "Elizabeth",
+                            
+                            "value": "1"
+                        
+                        
+                    },
+                    {
+                        
+                            
+                            
+                            "name": "Franziska",
+                            
+                            "value": "1"
+                        
+                    }
+                ]
+                        
+                    }]
+                    }]
+                    }]
+              },
+              {
+                "name": "Tiedmann Family",
+                    
+                    "fill": "#C70F67",
+                    
+                    "children": [
+                    {
+                        "name": "Egon",
+                    
+                    "fill": "#C92372",
+                    
+                    "children": [
+                    {
+                        "name": "Claudia",
+                    
+                    "fill": "#CB337C",
+                    
+                    "children": [
+                    {
+                        "name": "Regina",
+                        
+                        "fill": "#CD4887",
+                        
+                        "children": [
+                        {
+                            
+                            
+                            "name": "Bartosz",
+                            
+                            "value": "1"
+                            
+                        }]   
+                    }]
+                    }]
+                    }]
+              },
+              {
+                "name": "Obendorf Family",
+                    
+                    "fill": "#E41578",
+                    
+                    "children": [
+                    {
+                        "name": "Jurgen",
+                    
+                    "fill": "#E42A82",
+                    
+                    "children": [
+                    {
+                        
+                            
+                            "name": "Eric",
+                            
+                            "value": "1"
+                    },{
+                        
+                            
+                            "name": "Killian",
+                            
+                            "value": "1"
+                    }]
+                    }]
+              },
+              {
+                "name": "Kohler Family",
+                    
+                    "fill": "#D3136E",
+                    
+                    "children": [
+                    {
+                        
+                            
+                            "name": "clausen",
+                            
+                            "value": "1"
+                    },{
+                        
+                            
+                            "name": "Alesander",
+                            
+                            "value": "1"
+                    }]
+              },
+              {
+                "name": "Friese Family",
+                    
+                    "fill": "#C41267",
+                    
+                    "children": [
+                    {
+                        "name": "Yasin",
+                        
+                        "value": "1"}]
+                  
+              }
+              
+            ]
+    
+    
+        }
+              
+    
+
+        
+            
+            
+            
+            
+           
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    ]}] 
